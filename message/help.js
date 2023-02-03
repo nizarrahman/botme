@@ -23,6 +23,7 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
 ╭─○「 *${setting.botName}* 」
 │ • Library : *Baileys-MD*.
 │ • Prefix : ( ${prefix} )
+│ • Website: www.nizarr.my.id
 │ • Tanggal Server : ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 │ • Waktu Server : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')} WIB
 ╰○
@@ -129,12 +130,11 @@ ${readmore}
 ╰○
 
 ╭─○「 *Thanks To* 」
-│ • Irfan H.
-│ • Yoga A.
-│ • Faiz Frdnd
-│ • Arthur
-│ • Gabriel / Guntur
-│ • Amirul Dev
-│ • riycoders
+│ • Nizar Rahman 
+│ • Adryan Nugraha 
+│ • Irham Khoiri
+│ • Rafie Ahmad 
+│ • Nai Developer 
+│ 
 ╰○`
 }
