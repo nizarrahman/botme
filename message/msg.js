@@ -352,7 +352,7 @@ module.exports = async(conn, msg, m, setting, store, welcome, _afk) => {
                    break
                 case prefix+'sc': case prefix+'script':
                 case prefix+'sourcecode': case prefix+'scriptbot':
-                   var teks = `Bot ini menggunakan Script dari :\nhttps://youtube.com/@riycoders`
+                   var teks = `Mau Sc? Chat Owner:\nhttps://wa.me/6281386945391`
                    reply(teks)
                    break
                 case prefix+'cekprem':
